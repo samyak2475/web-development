@@ -11,9 +11,9 @@
 
 steps to upload your file to github: 
 
-    - make a repository(empty project) on github
-    - connect your folder to github repository
-    - push your folder to github
+- make a repository(empty project) on github
+- connect your folder to github repository
+- push your folder to github
 
 
 
